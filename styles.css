@@ -40,7 +40,7 @@ header .container {
   align-items: center;
 }
 .logo > img {
-  height: 56px;
+  height: 100px;
   width: auto;
   display: block;
   object-fit: contain;
